@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="942118a8-a9d6-4fe4-b983-44332606535c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Java/maven/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\Java\maven\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zCbR6y1jzew1kcWqUgZebcRh41" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="942118a8-a9d6-4fe4-b983-44332606535c" name="Default Changelist" comment="" />
+      <created>1633655005247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633655005247</updated>
+      <workItem from="1633655008160" duration="671000" />
+      <workItem from="1633913618639" duration="598000" />
+      <workItem from="1633931901571" duration="1238000" />
+      <workItem from="1634517488096" duration="2283000" />
+      <workItem from="1637022240269" duration="27000" />
+      <workItem from="1637022287051" duration="62000" />
+      <workItem from="1637022369466" duration="19000" />
+      <workItem from="1637022406432" duration="599000" />
+      <workItem from="1637541564394" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1633655048801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1633655048801" />
+  </component>
+</project>
